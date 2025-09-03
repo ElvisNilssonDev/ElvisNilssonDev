@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**ElvisNilssonDev/ElvisNilssonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I am Elvis ᯓ★
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 A Student studying back-end devloping with Cloud at [NBI/Handelsakademin](https://www.nbi-handelsakademin.se)
+🔆 I want to be the best in my field
+👩🏻‍🍳 I am a former chef doing a 180 into the techindustry
+💻 Currently learning c# in visual studio and git as well as github
+🌐 Feel free to network with me at [Linkedin](https://www.linkedin.com/in/elvis-nilsson-6852892b3)
+
+![Elvis GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisNilssonDev&theme=tokyonight_icons=true)
+
+My Hobbies
+✩♬ ₊˚.⋆.˚🎹࣪ ࣪⋆☾⋆⁺₊✧
+I play piano to get my feels out⠀⠀⠀⠀⠀⠀
+☾⋆⁺₊🎮✩°｡
+I game to also get my feels out
+🏋🏻‍♀️🎧
+I go to the Gym to not look like a sack of potatoes
+
