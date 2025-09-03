@@ -24,3 +24,4 @@ I go to the Gym to not look like a sack of potatoes<br/>
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 # 📊 My Stats<br/>
+![Elvis GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisNilssonDev&theme=great-gatsby&show_icons=true)
