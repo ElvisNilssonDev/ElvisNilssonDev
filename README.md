@@ -5,7 +5,7 @@
 👨🏻‍💻 A Student studying back-end devloping with Cloud at [NBI/Handelsakademin](https://www.nbi-handelsakademin.se)<br/>
 🔆 I want to be the best in my field<br/>
 👩🏻‍🍳 I am a former chef doing a 180 into the techindustry<br/>
-💻 Currently learning c# in visualStudio/VisualStudioCode (Still learning IDE) as well as trying to get the hang of git and github<br/>
+💻 Currently learning Api architechture with database structure in EF core with a touch of Razor and blazor<br/>
 🌐 Feel free to network with me at [Linkedin](https://www.linkedin.com/in/elvis-nilsson-6852892b3)<br/>
 
 # 🎮 My Hobbies<br/>
