@@ -14,7 +14,7 @@ I play piano to get my feels out<br/>
 ☾⋆⁺₊🎮✩°｡<br/>
 I game to also get my feels out<br/>
 🏋🏻‍♀️🎧<br/>
-I go to the Gym to not look like a sack of potatoes<br/>
+I go to the Gym to not look like a sack of potatoes when I code<br/>
 
 # 🧰 My Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
