@@ -5,7 +5,7 @@
 👨🏻‍💻 A student studying back-end development with Cloud at [NBI/Handelsakademin](https://www.nbi-handelsakademin.se)<br/>
 🔆 I want to be the best in my field and tackle challenging problems head-on<br/>
 👨🏻‍🍳 Former chef doing a 180° into the tech industry<br/>
-💻 Currently building API architecture with EF Core, Clean Architecture, and cloud-focused back-end systems<br/>
+💻 Currently building APIs with clean code architecture and cloud-focused back-end systems<br/>
 🌐 Feel free to network with me on [LinkedIn](https://www.linkedin.com/in/elvis-nilsson-6852892b3)<br/>
 
 ---
