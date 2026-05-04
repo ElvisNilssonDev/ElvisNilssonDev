@@ -12,7 +12,7 @@
 
 # 🎮 My Hobbies
 
-✩♬ ₊˚.⋆.˚🎹࣪ ⋆☾⋆⁺₊✧ &nbsp; I play piano to get my feels out<br/>
+✩♬ ₊˚.⋆.˚🎹࣪ ⋆☾⋆⁺₊✧ &nbsp; I play piano to get my feels out But lately I have been doing some guitar solos as well!<br/>
 ☾⋆⁺₊🎮✩°｡ &nbsp; I also game to get my feels out (Hunt Showdown, Rocket League, Valorant)<br/>
 🏋🏻‍♂️🎧 &nbsp; I go to the gym so I don't look like a sack of potatoes when I code<br/>
 
