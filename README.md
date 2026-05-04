@@ -1,9 +1,6 @@
 
-
 <div align="center">
-
-# 👨🏻‍💻 Hi, I'm Elvis ᯓ★
-
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Elvis+%E1%AF%93%E2%98%85;Fullstack+Developer;Former+Chef+%E2%86%92+Backend+Dev" />
 </div>
 
 ## 👋 About Me
