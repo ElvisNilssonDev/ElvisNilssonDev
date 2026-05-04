@@ -4,13 +4,7 @@
 
 # 👨🏻‍💻 Hi, I'm Elvis ᯓ★
 
-<img src="./img/profile-banner.png" alt="Elvis coding by candlelight" width="100%" />
-
-*Good food, good day. Don't rush — good things take time.*
-
 </div>
-
----
 
 ## 👋 About Me
 
@@ -87,14 +81,9 @@
 
 ---
 
-## 📊 GitHub Stats
+<img src="./img/profile-banner.png" alt="Elvis coding by candlelight" width="100%" />
 
-<div align="center">
+*Good food, good day. Don't rush — good things take time.*
 
-![Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElvisNilssonDev&theme=great-gatsby&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisNilssonDev&layout=compact&theme=great-gatsby&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElvisNilssonDev&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
 
 </div>
