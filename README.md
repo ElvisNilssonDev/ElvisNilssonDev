@@ -79,7 +79,7 @@
 
 ## 🚀 Currently Building
 
-**[Inkpact](https://github.com/ElvisNilssonDev/Inkpact)** — A freelance contract platform built with Clean Architecture, CQRS, MediatR, JWT auth and PostgreSQL. Demonstrates real-world patterns: domain events, atomic transactions across multiple aggregates, generic repositories, pipeline behaviors and role-based authorization.
+**[Inkpact](https://github.com/ElvisNilssonDev/Inkpact)** — A freelance contract platform built with Clean Architecture, CQRS, MediatR, JWT auth and PostgreSQL. Demonstrates real-world patterns: domain events, atomic transactions across multiple aggregates, generic repositories, pipeline behaviors and role-based authorization. Api is done and now doing the front-end part of the project.
 
 ---
 
