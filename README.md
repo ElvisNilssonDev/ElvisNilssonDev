@@ -13,7 +13,7 @@
 🎓 &nbsp; Back-end development student with a Cloud (Including a bit of Full-Stack) focus at [NBI/Handelsakademin](https://www.nbi-handelsakademin.se)<br/>
 🔆 &nbsp; Aiming to be the best in my field — I tackle challenging problems head-on<br/>
 👨🏻‍🍳 &nbsp; Former chef doing a 180° pivot into the tech industry<br/>
-💻 &nbsp; Currently building APIs and full-stack apps with Clean Architecture and cloud-focused back-end systems<br/>
+💻 &nbsp; Currently building APIs and full-stack apps with Clean Architecture and cloud-focused back-end systems and learning AWS/Azure <br/>
 🌐 &nbsp; Let's connect on [LinkedIn](https://www.linkedin.com/in/elvis-nilsson-6852892b3)
 
 ---
